@@ -47,7 +47,7 @@ I love building systems that make data both **accessible** and **meaningful** ğŸ
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## ğŸŒ Socials  
-[![LinkedIn](https://www.linkedin.com/in/jamal-eddine-obeidat-02638822b/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamal-eddine-obeidat-02638822b/)
 
 [![](https://visitcount.itsvg.in/api?id=jamal-eddine-obeidat&icon=0&color=0)](https://visitcount.itsvg.in)  
 
